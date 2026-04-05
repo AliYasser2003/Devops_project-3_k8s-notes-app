@@ -1,6 +1,4 @@
-******************************************************************************
-* (SIMPLE UI AND FOCUSING ON THE ARCHITECTURE OF BUILDING AS DEVOPS ENGINEER)*
-******************************************************************************
+* (SIMPLE UI AND FOCUSING ON THE ARCHITECTURE OF BUILDING AS DEVOPS ENGINEER) *
 
 Notes App - DevOps Project 
 *****************************
