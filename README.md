@@ -1,6 +1,6 @@
 * (SIMPLE UI AND FOCUSING ON THE ARCHITECTURE OF BUILDING AS DEVOPS ENGINEER)
 
-Notes App - DevOps K8S Environment 
+# Notes App - DevOps K8S Environment 
 **************************************
 Notes application deployed using Docker and Kubernetes, demonstrating real-world DevOps practices.
 
